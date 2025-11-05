@@ -13,4 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 I HAVE COMPLETE MY TASK IN VS CODE EDITOR AND I USE MATPLOTLIB AND FPDF PYTHON TOOL.
+
 #OUTPUT:
+
+[Simple_Sales_Report.pdf](https://github.com/user-attachments/files/23359141/Simple_Sales_Report.pdf)
